@@ -90,7 +90,7 @@ h1{
     font-size: 30px;
     font-weight: 600;
 }
-.date{
+.date,#temp2{
     color: #292929;
     font-weight: 600;
 }
